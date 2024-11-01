@@ -3,4 +3,4 @@ project(RecursionRegex)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(RecursionRegex main.cpp)
+add_executable(RecursionRegex main.cpp createDeleteTest.cpp getLineTest.cpp)
